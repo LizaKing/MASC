@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="govt-docs_may.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43663" />
+        <annotator id="eHOST_2010">Liza</annotator>
+        <span start="75" end="78" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:33 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43690">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43663">
+        <hasSlotMention id="EHOST_Instance_43690" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43664" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="279" end="282" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43691">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43664">
+        <hasSlotMention id="EHOST_Instance_43691" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43665" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="384" end="387" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43692">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43665">
+        <hasSlotMention id="EHOST_Instance_43692" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43666" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="542" end="545" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43693">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43666">
+        <hasSlotMention id="EHOST_Instance_43693" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43667" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="635" end="638" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43694">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43667">
+        <hasSlotMention id="EHOST_Instance_43694" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43668" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="741" end="744" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43695">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43668">
+        <hasSlotMention id="EHOST_Instance_43695" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43669" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="800" end="803" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43696">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43669">
+        <hasSlotMention id="EHOST_Instance_43696" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43670" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="881" end="884" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43697">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43670">
+        <hasSlotMention id="EHOST_Instance_43697" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43671" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="1087" end="1090" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43698">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43671">
+        <hasSlotMention id="EHOST_Instance_43698" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43672" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="1360" end="1363" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43699">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43672">
+        <hasSlotMention id="EHOST_Instance_43699" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43673" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="1461" end="1464" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43700">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43673">
+        <hasSlotMention id="EHOST_Instance_43700" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43674" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="1610" end="1613" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43701">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43674">
+        <hasSlotMention id="EHOST_Instance_43701" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43675" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="1916" end="1919" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43702">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43675">
+        <hasSlotMention id="EHOST_Instance_43702" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43676" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="2130" end="2133" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43703">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43676">
+        <hasSlotMention id="EHOST_Instance_43703" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43677" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="2440" end="2443" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43704">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43677">
+        <hasSlotMention id="EHOST_Instance_43704" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43678" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="2791" end="2794" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43705">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43678">
+        <hasSlotMention id="EHOST_Instance_43705" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43679" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="2929" end="2932" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43706">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43679">
+        <hasSlotMention id="EHOST_Instance_43706" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43680" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="2999" end="3002" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43707">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43680">
+        <hasSlotMention id="EHOST_Instance_43707" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43681" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="3116" end="3119" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43708">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43681">
+        <hasSlotMention id="EHOST_Instance_43708" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43682" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="3721" end="3724" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43709">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43682">
+        <hasSlotMention id="EHOST_Instance_43709" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43683" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="4128" end="4131" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43710">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43683">
+        <hasSlotMention id="EHOST_Instance_43710" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43684" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="4281" end="4284" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43711">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43684">
+        <hasSlotMention id="EHOST_Instance_43711" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43685" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="4499" end="4502" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43712">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43685">
+        <hasSlotMention id="EHOST_Instance_43712" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43686" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="4725" end="4728" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43713">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43686">
+        <hasSlotMention id="EHOST_Instance_43713" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43687" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="4837" end="4840" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43714">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Epistemic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43687">
+        <hasSlotMention id="EHOST_Instance_43714" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43688" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="5110" end="5113" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43715">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43688">
+        <hasSlotMention id="EHOST_Instance_43715" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43689" />
+        <annotator id="eHOST_2010">Oracle[Liza]</annotator>
+        <span start="5299" end="5302" />
+        <spannedText>may</spannedText>
+        <creationDate>Mon Jun 04 10:44:35 CEST 2018</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43716">
+        <mentionSlot id="Sense" />
+        <stringSlotMentionValue value="Deontic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43689">
+        <hasSlotMention id="EHOST_Instance_43716" />
+        <mentionClass id="MODAL">may</mentionClass>
+    </classMention>
+</annotations>
+
